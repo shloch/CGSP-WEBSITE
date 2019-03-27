@@ -1,0 +1,32 @@
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    header {
+        //border: 1px solid white;
+        color: white;
+        //height: 300px;
+        padding: 4%;
+        background: url('../images/banner.jpg') no-repeat;
+        background-size: cover;
+        .navbar {
+            background: none;
+            .nav-link {
+                color: white;
+            }
+            .big-heading {
+                border: 1px solid white;
+                margin-top: 5em;
+            }
+            .logo {
+                //text-align: center;
+                vertical-align: center;
+            }
+        }
+    }

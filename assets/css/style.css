@@ -1,0 +1,25 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif; }
+
+header {
+  color: white;
+  padding: 4%;
+  background: url("../images/banner.jpg") no-repeat;
+  background-size: cover; }
+  header .navbar {
+    background: none; }
+    header .navbar .nav-link {
+      color: white; }
+    header .navbar .big-heading {
+      border: 1px solid white;
+      margin-top: 5em; }
+    header .navbar .logo {
+      vertical-align: center; }
+
+/*# sourceMappingURL=style.css.map */
