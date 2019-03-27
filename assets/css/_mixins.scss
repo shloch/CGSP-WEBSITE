@@ -1,0 +1,18 @@
+@mixin rounded-corners {
+    $rounded-corner-radius: 4px;
+    -webkit-border-radius: $rounded-corner-radius;
+    -moz-border-radius: $rounded-corner-radius;
+    -ms-border-radius: $rounded-corner-radius;
+    border-radius: $rounded-corner-radius;
+}
+
+@mixin default-styling {
+    font-family: 'Open Sans', sans-serif;
+}
+
+@mixin media-query-about-section {
+    max-width: 70%;
+    height: calc(100% - 16em);
+    //height: 350px;
+    margin: auto;
+}
