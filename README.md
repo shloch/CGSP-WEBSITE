@@ -26,4 +26,4 @@
 https://raw.githack.com/shloch/CGSP-WEBSITE/master/index.html
 
 ## Screenshot 
-![alt text](https://github.com/Shimele/Book-store-design/blob/master/screenshot.jpg)
+![alt text](https://github.com/shloch/CGSP-WEBSITE/blob/master/assets/images/screenshot.png)
